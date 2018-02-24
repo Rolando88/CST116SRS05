@@ -2,13 +2,13 @@
 Date List
 
 
-Class ID:  
+Class ID: Taillow
 
 SRS ID: CST116SRS05  
 
 Unresolved Issues:  
 
-Notes:  
+Notes:  I wasn't sure if I had to include the two dates that were sent as input to each date that is sent to the console.
 
 
 ---
